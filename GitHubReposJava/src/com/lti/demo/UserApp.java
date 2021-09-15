@@ -6,7 +6,6 @@ public class UserApp {
 		// TODO Auto-generated method stub
 		Product p=new Product(101, "Mobile", 5000);
 		System.out.println(p);
-		System.out.println("R");
 	}
 
 }
